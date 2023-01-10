@@ -1,11 +1,13 @@
 .user-component {
   justify-content: space-between;
+  margin-bottom: 30px;
 }
 
 .user-component,
 .user-component__column:first-child {
   display: flex;
   align-items: center;
+  /* justify-content: center; */
 }
 
 .user-component__avatar {
