@@ -16,6 +16,7 @@
 @import "screens/find.css";
 
 body {
+  height: 200vh;
   color: #2e363e;
   font-family: "Open Sans", sans-serif;
 }
